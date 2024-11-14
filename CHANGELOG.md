@@ -6,4 +6,14 @@ Switch between No Proxy, Auto Proxy, and Manual Proxy settings
 
 ## [Unreleased]
 ### Added
-- Initial version release
+
+- Add MIT license file
+
+### Changed
+
+- Upgrade platform versions
+
+### Removed
+
+- Remove PR creating on release
+

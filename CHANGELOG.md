@@ -4,8 +4,7 @@
 
 Switch between No Proxy, Auto Proxy, and Manual Proxy settings
 
-## [1.0.1] - 2024-11-15
-
+## [Unreleased]
 ### Added
 
 - Add MIT license file

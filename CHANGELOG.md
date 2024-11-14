@@ -1,7 +1,9 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# intellij-proxy-switcher Changelog
+# Proxy Switcher Changelog
+
+Switch between No Proxy, Auto Proxy, and Manual Proxy settings
 
 ## [Unreleased]
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Initial version release

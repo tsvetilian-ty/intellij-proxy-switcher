@@ -1,7 +1,7 @@
 # Proxy Switcher
 
 ![Build](https://github.com/tsvetilian-ty/intellij-proxy-switcher/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/25837-proxy-switcher.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/25837-proxy-switcher.svg)](https://plugins.jetbrains.com/plugin/25837-proxy-switcher)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/25837-proxy-switcher)
 
 <!-- Plugin description -->

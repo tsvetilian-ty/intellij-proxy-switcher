@@ -24,6 +24,13 @@ jobs:
         with:
           ref: ${{ github.event.release.tag_name }}
 
+      - name: Free disk
+        run: |
+          sudo swapoff -a
+          sudo rm -f /swapfile
+          sudo apt clean
+          df -h
+
       # Set up Java environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v4

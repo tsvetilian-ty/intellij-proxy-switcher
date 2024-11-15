@@ -26,6 +26,14 @@ jobs:
       - name: Fetch Sources
         uses: actions/checkout@v4
 
+      - name: Free disk
+        run: |
+          sudo swapoff -a
+          sudo rm -f /swapfile
+          sudo apt clean
+          df -h
+
+
       # Validate wrapper
       - name: Gradle Wrapper Validation
         uses: gradle/actions/wrapper-validation@v3

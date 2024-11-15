@@ -3,17 +3,6 @@
     <id>com.tsvetilian.intellijproxyswitcher</id>
     <name>Proxy Switcher</name>
     <vendor url="https://tsvetilian.com">Tsvetiliyan Yankov</vendor>
-    <description><![CDATA[
-Quick way to switch between the different proxy modes for your IDE:
-<ul>
-  <li>No Proxy</li>
-  <li>Auto-detect proxy settings</li>
-  <li>Manual proxy configuration</li>
-</ul>
-For more information visit the
-<a href="https://github.com/tsvetilian-ty/intellij-proxy-switcher">GitHub project</a>.
-]]>
-    </description>
 
     <depends>com.intellij.modules.platform</depends>
 
